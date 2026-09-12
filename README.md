@@ -131,6 +131,8 @@ sentient-graph/
    npm run dev
    ```
    Deployment link: https://sentient-graph-project.vercel.app/
+
+   
    Open `http://localhost:3000` (or the port specified by Vite) in your browser.
 
 ---
